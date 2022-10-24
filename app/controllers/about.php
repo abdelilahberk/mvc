@@ -4,7 +4,7 @@ class About extends Controller {
 
     function index(){
         echo "Home page index method";
-        $this->view("about");
+        $this->view("aboutt");
     }
 
     // function view($view){
