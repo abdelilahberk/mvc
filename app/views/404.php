@@ -1,0 +1,1 @@
+<?php echo 'this is the 404 view'?>
